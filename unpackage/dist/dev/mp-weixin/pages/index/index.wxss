@@ -1,0 +1,16 @@
+
+.scroll-content.data-v-19f34872 {
+	width: 100%;
+	white-space: nowrap;
+}
+.scroll-item.data-v-19f34872 {
+	display: inline-block;
+	padding: 10rpx 30rpx;
+	font-size: 32rpx;
+	white-space: nowrap;
+}
+.scroll-item .f-active-color.data-v-19f34872{
+	padding: 10rpx 0;
+	border-bottom: 4rpx solid #49BDFB;
+}
+

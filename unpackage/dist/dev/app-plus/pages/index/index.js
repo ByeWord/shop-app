@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"scroll-content.",[1],"data-v-19f34872 { width: 100%; white-space: nowrap; }\n.",[1],"scroll-item.",[1],"data-v-19f34872 { display: inline-block; padding: ",[0,10]," ",[0,30],"; font-size: ",[0,32],"; white-space: nowrap; }\n.",[1],"scroll-item .",[1],"f-active-color.",[1],"data-v-19f34872{ padding: ",[0,10]," 0; border-bottom: ",[0,4]," solid #49BDFB; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

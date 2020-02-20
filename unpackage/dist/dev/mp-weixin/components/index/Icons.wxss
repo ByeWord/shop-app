@@ -1,0 +1,34 @@
+
+.icons.data-v-6687894c{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.icon-item.data-v-6687894c{
+	width: 25%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding-top: 20rpx;
+}
+.icon-img.data-v-6687894c{
+	width: 100rpx;
+}
+.f-color.data-v-6687894c{
+	font-size: 24rpx;
+}
+

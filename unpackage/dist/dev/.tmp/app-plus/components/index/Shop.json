@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "banner": "/components/index/Banner",
+    "card": "/components/common/Card",
+    "commodity": "/components/common/Commodity"
+  },
+  "component": true
+}

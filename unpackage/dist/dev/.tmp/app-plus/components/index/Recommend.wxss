@@ -1,0 +1,32 @@
+
+.recommend.data-v-4cf5c8ee{
+	padding: 20rpx;
+}
+.container.data-v-4cf5c8ee {
+	border-radius: 20rpx;
+	overflow: hidden;
+}
+.container.data-v-4cf5c8ee:not(:first-child){
+	margin-top: 20rpx;
+}
+image.data-v-4cf5c8ee {
+	display: block;
+}
+.image-lg.data-v-4cf5c8ee {
+	width: 100%;
+	height: 280rpx;
+}
+.sub-images.data-v-4cf5c8ee{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.image-sm.data-v-4cf5c8ee{
+	-webkit-box-flex: 33.3333%;
+	-webkit-flex: 33.3333%;
+	    -ms-flex: 33.3333%;
+	        flex: 33.3333%;
+	height: 240rpx;
+}
+

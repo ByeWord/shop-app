@@ -1,0 +1,1 @@
+<view class="shop"><card vue-id="1" title="店铺推荐" bind:__l="__l"></card><banner vue-id="2" imgSrc="../../static/images/shop.jpg" bind:__l="__l"></banner><scroll-view class="scroll-content" scroll-x><view class="scroll-item"><commodity vue-id="3" dataList="{{shopList}}" wrap="{{false}}" colW="200" bind:__l="__l"></commodity></view></scroll-view></view>
